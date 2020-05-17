@@ -20,3 +20,4 @@ constant c is small enough, so that the array elements can be used as indices in
 the bookkeeping array
 </pre>
 <h2> Visual Algorithm </h2>  
+![](capture.png)
