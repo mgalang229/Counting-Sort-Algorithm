@@ -19,5 +19,5 @@ Counting sort is a very efficient algorithm but it can only be used when the
 constant c is small enough, so that the array elements can be used as indices in
 the bookkeeping array
 </pre>
-<h2> Visual Algorithm </h2>
+<h2> Visual Algorithm </h2>  
 ![](capture.png)
